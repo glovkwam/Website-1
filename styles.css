@@ -64,8 +64,8 @@ h3 {
 header {
 
 
-  background-image: url(moon.jpeg);
-  background-size: 1450px;
+  background-image: url(moonn.gif);
+  background-size: 650px;
 background-color: #A1C6D7;
 
 
@@ -104,6 +104,7 @@ background-color: #A1C6D7;
 /* Work Experience
 ------------------------------------*/
 .work-experience {
+  background-image: url(sky.gif);
   background: #A1C6D7;
 }
 
@@ -125,8 +126,8 @@ background-color: #A1C6D7;
 /* Contact Info
 ------------------------------------*/
 footer {
-  background-image: url(bckg.jpeg);
-  background-size: 1150px;
+  background-image: url(kick.gif);
+  background-size: 400px;
 
   color: #F7FFF7;
 }
